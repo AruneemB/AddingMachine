@@ -1,0 +1,40 @@
+h1{
+  font-family: monospace;
+  font-size: 50px;
+}
+
+input{
+  background-color: #03ecfc;
+  height: 100px;
+  width: 100px;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+input:hover{
+  background-color: #03fc80;
+  font-size: 30px;
+}
+
+.clearbutton{
+  background-color: #03ecfc;
+  height: 100px;
+  width: 200px;
+}
+
+hr{
+  border-top: 3px dashed black;
+}
+
+div{
+  border: 1px solid black;
+  width: 300px;
+  background-color: #03fc80;
+  font-family: monospace;
+  font-size: 25px;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  box-sizing: border-box;
+}
